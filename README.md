@@ -2,23 +2,13 @@
 
 # Table of Contents
 
-- [Objective](#objective)
-- [Tools Used](#tools-used)
-- [What is Phishing?](#what-is-phishing)
-- [Creating the Phishing Environment](#creating-the-phishing-environment)
-- [Step-by-Step Procedure](#step-by-step-procedure)
-  - [Step 1: Launching Setoolkit](#step-1-launching-setoolkit)
-  - [Step 2: Choosing Type of Attack](#step-2-choosing-type-of-attack)
-  - [Step 3: Selecting Attack Method](#step-3-selecting-attack-method)
-  - [Step 4: Credential Harvesting Method](#step-4-credential-harvesting-method)
-  - [Step 5: Site Cloning](#step-5-site-cloning)
-  - [Step 6: Providing IP and Target URL](#step-6-providing-ip-and-target-url)
-  - [Step 7: Sending the Phishing Email](#step-7-sending-the-phishing-email)
-  - [Step 8: Verifying the Email](#step-8-verifying-the-email)
-  - [Step 9: Output of Phishing](#step-9-output-of-phishing)
-- [Analysis of the Facebook Phishing Email](#analysis-of-the-facebook-phishing-email)
-- [Summary](#summary)
-- [Conclusion](#conclusion)
+- [Objective](#-objective)
+- [Tools Used](#-tools-used)
+- [What is Phishing?](#-what-is-phishing)
+- [Creating the Phishing Environment](#-creating-the-phishing-environment)
+- [Step-by-Step Procedure](#-step-by-step-procedure)
+- [Analysis of the Facebook Phishing Email](#-analysis-of-the-facebook-phishing-email)
+- [Conclusion](#-conclusion)
 
 
 # Objective :
@@ -31,9 +21,9 @@ To analyze a sample phishing email and identify key characteristics of phishing 
 # What is Phishing ? 
 - Phishing is a type of cyberattack where attackers try to trick people into revealing sensitive information — like passwords, credit card numbers, or personal details — by pretending to be a trusted organization (such as a bank, company, or government agency).
 
-# Creating the ohishing Environment : 
+# Creating the phishing Environment : 
 
-# Step Taken :
+# Step-by-Step Procedure :
 
 ## Step 1 : 
 - Lunching Setoolkit to create a phishing `url`.
