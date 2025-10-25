@@ -75,7 +75,7 @@ To analyze a sample phishing email and identify key characteristics of phishing 
 | **Subject Line** | “⚠️ Urgent: We have Suspended a login from another devices!” — creates fear and urgency to make user act quickly. | Urgent / threatening tone |
 | **Email Header** | Likely sent from an unknown mail server not matching Facebook’s IPs. SPF/DKIM/DMARC checks fail. | Header discrepancy |
 | **Body Message** | Claims unauthorized login and asks to verify identity. | Social engineering (fear + urgency) |
-| **Link in Email** | `https://facebook-account-secure.com/login` — appears like Facebook but is a fake domain. Hover reveals real malicious link. | Mismatched / fake URL |
+| **Link in Email** | `Login to Verify` — appears like Facebook but is a fake domain. Hover reveals real malicious link. | Mismatched / fake URL |
 | **Grammar / Spelling** | Minor issue (“another devices” instead of “another device”). | Grammar errors, non-professional writing |
 | **Request for Action** | Asks user to click a link and verify login info. Facebook never requests this by email. | Request for sensitive information |
 | **Branding / Design** | May include fake Facebook logo or poor formatting, lacks real Meta footer. | Forged or incomplete branding |
