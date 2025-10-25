@@ -2,28 +2,28 @@
 
 # Table of Contents
 
-- [Objective](#-objective)
-- [Tools Used](#-tools-used)
-- [What is Phishing?](#-what-is-phishing)
-- [Creating the Phishing Environment](#-creating-the-phishing-environment)
-- [Step-by-Step Procedure](#-step-by-step-procedure)
-- [Analysis of the Facebook Phishing Email](#-analysis-of-the-facebook-phishing-email)
-- [Conclusion](#-conclusion)
+- [Objective](#objective)
+- [Tools Used](#tools-used)
+- [What is Phishing?](#what-is-phishing?)
+- [Creating the Phishing Environment](#creating-the-phishing-environment)
+- [Step-by-Step Procedure](#step-by-step-procedure)
+- [Analysis of the Facebook Phishing Email](#analysis-of-the-facebook-phishing-email)
+- [Conclusion](#conclusion)
 
 
-# Objective :
+# Objective
 To analyze a sample phishing email and identify key characteristics of phishing attempts, such as spoofed sender details, header discrepancies, suspicious content, and linguistic errors, in order to develop skills in recognizing and reporting email-based threats effectively.
 
-# Tools used :
+# Tools used 
 - Tools :
    - Setoolkit (A social engineering tool)
  
 # What is Phishing ? 
 - Phishing is a type of cyberattack where attackers try to trick people into revealing sensitive information — like passwords, credit card numbers, or personal details — by pretending to be a trusted organization (such as a bank, company, or government agency).
 
-# Creating the phishing Environment : 
+# Creating the phishing Environment 
 
-# Step-by-Step Procedure :
+# Step-by-Step Procedure 
 
 ## Step 1 : 
 - Lunching Setoolkit to create a phishing `url`.
